@@ -4,7 +4,7 @@ def create_an_empty_array
 end
 
 def create_an_array
- array = ["Goten","Gohan","Chi-Chi","Kakarot"]
+ array = ["Goten","am","Chi-Chi","Kakarot"]
 end
 
 def add_element_to_end_of_array(array, element)
