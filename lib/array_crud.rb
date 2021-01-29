@@ -4,15 +4,15 @@ def create_an_empty_array
 end
 
 def create_an_array
- array = ["Goten","Gohan","Chi-Chi","Kakarot"]
+ my_Array = ["Goten","Gohan","Chi-Chi","Kakarot"]
 end
 
 def add_element_to_end_of_array(array, element)
-  array << "arrays!"
+  my_Array << "arrays!"
 end
 
 def add_element_to_start_of_array(array, element)
-  array.unshift("Bulma")
+  my_Array.unshift("Bulma")
 end
 
 def remove_element_from_end_of_array(array)
